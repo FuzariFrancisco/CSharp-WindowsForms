@@ -1,0 +1,10 @@
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\bin\Debug\OlaMundo.exe.config
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\bin\Debug\OlaMundo.exe
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\bin\Debug\OlaMundo.pdb
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\obj\Debug\OlaMundo.csprojAssemblyReference.cache
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\obj\Debug\OlaMundo.Form1.resources
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\obj\Debug\OlaMundo.Properties.Resources.resources
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\obj\Debug\OlaMundo.csproj.GenerateResource.cache
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\obj\Debug\OlaMundo.exe
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMundo\obj\Debug\OlaMundo.pdb

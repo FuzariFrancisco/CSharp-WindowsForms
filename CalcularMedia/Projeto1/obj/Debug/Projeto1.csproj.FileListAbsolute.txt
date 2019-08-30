@@ -1,0 +1,20 @@
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.csprojAssemblyReference.cache
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.Form1.resources
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Chacal\Documents\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.csprojAssemblyReference.cache
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.Form1.resources
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\Programas e linguagens\C#\Windows Form\ProjetosFeitosEmCasa\Projeto1\obj\Debug\Projeto1.pdb

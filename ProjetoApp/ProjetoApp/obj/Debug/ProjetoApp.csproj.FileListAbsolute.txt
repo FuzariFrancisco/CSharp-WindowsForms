@@ -1,0 +1,40 @@
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe.config
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.pdb
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csprojAssemblyReference.cache
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Form1.resources
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Properties.Resources.resources
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.GenerateResource.cache
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.exe
+C:\Users\Chacal\source\repos\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.pdb
+D:\c#\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe.config
+D:\c#\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe
+D:\c#\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.pdb
+D:\c#\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csprojAssemblyReference.cache
+D:\c#\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Form1.resources
+D:\c#\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Properties.Resources.resources
+D:\c#\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.GenerateResource.cache
+D:\c#\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.CoreCompileInputs.cache
+D:\c#\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.exe
+D:\c#\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.pdb
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe.config
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csprojAssemblyReference.cache
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Form1.resources
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Properties.Resources.resources
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.GenerateResource.cache
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.CoreCompileInputs.cache
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.exe
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.pdb
+C:\Users\francisco.hsfsouza\Documents\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.pdb
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe.config
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.exe
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\bin\Debug\ProjetoApp.pdb
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csprojAssemblyReference.cache
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Form1.resources
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.Properties.Resources.resources
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.GenerateResource.cache
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.exe
+C:\Users\Chacal\Desktop\Arquivos (Programming)\Programas e linguagens\C#\Windows Form\ProjetoApp\ProjetoApp\obj\Debug\ProjetoApp.pdb

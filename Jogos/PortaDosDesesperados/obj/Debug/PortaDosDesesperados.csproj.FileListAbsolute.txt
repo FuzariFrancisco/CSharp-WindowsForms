@@ -1,0 +1,8 @@
+c:\users\francisco.hsfsouza\documents\visual studio 2015\Projects\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.Form1.resources
+c:\users\francisco.hsfsouza\documents\visual studio 2015\Projects\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.csproj.GenerateResource.Cache
+C:\Users\francisco.hsfsouza\Documents\Visual Studio 2015\Projects\Jogos\PortaDosDesesperados\bin\Debug\PortaDosDesesperados.exe.config
+C:\Users\francisco.hsfsouza\Documents\Visual Studio 2015\Projects\Jogos\PortaDosDesesperados\bin\Debug\PortaDosDesesperados.exe
+C:\Users\francisco.hsfsouza\Documents\Visual Studio 2015\Projects\Jogos\PortaDosDesesperados\bin\Debug\PortaDosDesesperados.pdb
+C:\Users\francisco.hsfsouza\Documents\Visual Studio 2015\Projects\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.Properties.Resources.resources
+C:\Users\francisco.hsfsouza\Documents\Visual Studio 2015\Projects\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.exe
+C:\Users\francisco.hsfsouza\Documents\Visual Studio 2015\Projects\Jogos\PortaDosDesesperados\obj\Debug\PortaDosDesesperados.pdb

@@ -1,0 +1,10 @@
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\bin\Debug\CadastroDeAlunos2.exe.config
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\bin\Debug\CadastroDeAlunos2.exe
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\bin\Debug\CadastroDeAlunos2.pdb
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\obj\Debug\CadastroDeAlunos2.csprojAssemblyReference.cache
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\obj\Debug\CadastroDeAlunos2.Form1.resources
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\obj\Debug\CadastroDeAlunos2.Properties.Resources.resources
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\obj\Debug\CadastroDeAlunos2.csproj.GenerateResource.cache
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\obj\Debug\CadastroDeAlunos2.csproj.CoreCompileInputs.cache
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\obj\Debug\CadastroDeAlunos2.exe
+C:\Users\francisco.hsfsouza\Documents\CasdastroDeAlunos\CadastroDeAlunos2\obj\Debug\CadastroDeAlunos2.pdb

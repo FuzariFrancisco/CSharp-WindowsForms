@@ -1,0 +1,10 @@
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\bin\Debug\OlaMeuNome.exe.config
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\bin\Debug\OlaMeuNome.exe
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\bin\Debug\OlaMeuNome.pdb
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\obj\Debug\OlaMeuNome.csprojAssemblyReference.cache
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\obj\Debug\OlaMeuNome.Form1.resources
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\obj\Debug\OlaMeuNome.Properties.Resources.resources
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\obj\Debug\OlaMeuNome.csproj.GenerateResource.cache
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\obj\Debug\OlaMeuNome.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\obj\Debug\OlaMeuNome.exe
+C:\Users\Chacal\Documents\MetodosCSharp\OlaMeuNome\obj\Debug\OlaMeuNome.pdb

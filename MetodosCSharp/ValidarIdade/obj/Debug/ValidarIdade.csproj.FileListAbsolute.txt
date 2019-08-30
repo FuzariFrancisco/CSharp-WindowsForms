@@ -1,0 +1,13 @@
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\bin\Debug\ValidarIdade.exe.config
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\bin\Debug\ValidarIdade.exe
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\bin\Debug\ValidarIdade.pdb
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.csprojAssemblyReference.cache
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.Form1.resources
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.Properties.Resources.resources
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.csproj.GenerateResource.cache
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.exe
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.pdb
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.frmNomeVazio.resources
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.frmMaior18.resources
+C:\Users\Chacal\Documents\MetodosCSharp\ValidarIdade\obj\Debug\ValidarIdade.frmMenor18.resources

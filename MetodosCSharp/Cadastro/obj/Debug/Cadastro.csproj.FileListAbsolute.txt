@@ -1,0 +1,10 @@
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Chacal\Documents\MetodosCSharp\Cadastro\obj\Debug\Cadastro.pdb

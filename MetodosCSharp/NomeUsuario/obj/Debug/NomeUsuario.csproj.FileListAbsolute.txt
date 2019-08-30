@@ -1,0 +1,9 @@
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\bin\Debug\NomeUsuario.exe.config
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\bin\Debug\NomeUsuario.exe
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\bin\Debug\NomeUsuario.pdb
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\obj\Debug\NomeUsuario.Form1.resources
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\obj\Debug\NomeUsuario.Properties.Resources.resources
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\obj\Debug\NomeUsuario.csproj.GenerateResource.cache
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\obj\Debug\NomeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\obj\Debug\NomeUsuario.exe
+C:\Users\Chacal\Documents\MetodosCSharp\NomeUsuario\obj\Debug\NomeUsuario.pdb
